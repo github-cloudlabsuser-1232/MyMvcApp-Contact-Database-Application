@@ -39,7 +39,7 @@
     },
     "webAppName": {
       "type": "string",
-      "defaultValue": "myMvcApp",
+      "defaultValue": "myMvcAppUnique", 
       "metadata": {
         "description": "Name of the Web App."
       }
